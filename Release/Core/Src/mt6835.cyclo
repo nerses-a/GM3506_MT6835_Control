@@ -1,0 +1,16 @@
+../Core/Src/mt6835.c:8:5:MT6835_Init	6
+../Core/Src/mt6835.c:38:6:MT6835_TransmitReceive	5
+../Core/Src/mt6835.c:58:5:MT6835_ReadRegister	4
+../Core/Src/mt6835.c:81:5:MT6835_WriteRegister	2
+../Core/Src/mt6835.c:101:9:MT6835_CheckStatus	3
+../Core/Src/mt6835.c:112:5:MT6835_ProgramEEPROM	3
+../Core/Src/mt6835.c:129:5:MT6835_SetZeroTemporary	3
+../Core/Src/mt6835.c:148:5:MT6835_SetZero	6
+../Core/Src/mt6835.c:165:10:MT6835_ReadRawAngle	3
+../Core/Src/mt6835.c:181:7:MT6835_ReadAngle	2
+../Core/Src/mt6835.c:192:7:MT6835_ReadAngleDegrees	2
+../Core/Src/mt6835.c:202:7:MT6835_CalculateRotationSpeed	16
+../Core/Src/mt6835.c:258:7:MovingAverage_FilterSpeed	3
+../Core/Src/mt6835.c:285:7:MT6835_CalculateRotationSpeedRPM	1
+../Core/Src/mt6835.c:299:5:MT6835_SetAutoCalFreq	5
+../Core/Src/mt6835.c:325:5:MT6835_AutoCalibration	9

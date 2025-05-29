@@ -1,0 +1,8 @@
+../Core/Src/motor_control.c:7:6:MotorControl_Init	24	static
+../Core/Src/motor_control.c:39:6:MotorControl_Enable	8	static
+../Core/Src/motor_control.c:50:6:MotorControl_Disable	8	static
+../Core/Src/motor_control.c:61:6:MotorControl_SetOpenLoop	4	static
+../Core/Src/motor_control.c:72:6:MotorControl_SetFocTorque	0	static
+../Core/Src/motor_control.c:80:6:MotorControl_SetFocPosition	0	static
+../Core/Src/motor_control.c:91:6:MotorControl_SetPhasePWM	32	static
+../Core/Src/motor_control.c:111:6:MotorControl_Process	24	static
